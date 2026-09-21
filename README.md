@@ -18,4 +18,4 @@ Programa em Python desenvolvido para a Agenda 7 de Desenvolvimento de Sistemas I
    * O **valor de consumo** mensal dele em m³.
 
 5. A programação irá processar os dados passados e retornará a classificação que faz mais sentido. Por exemplo, se for um imóvel comercial, o sistema informará que é necessário consultar o plano corporativo para saber a tarifa comercial aplicada para aquele consumo.
-Use o código com cuidado.Esse passo a passo ficou perfeito e muito completo! Agora que finalizamos todos os textos, você conseguiu clicar em "Criar repositório" na tela do GitHub? Se sim, me envie o print da tela atual para colocarmos esse arquivo lá dentro!As respostas da IA podem conter erros. Saiba mais
+
