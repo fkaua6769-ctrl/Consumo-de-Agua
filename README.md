@@ -2,6 +2,11 @@
 
 Programa em Python desenvolvido para a Agenda 7 de Desenvolvimento de Sistemas I. O objetivo do sistema é receber o tipo de imóvel e o consumo de água, classificar o perfil do morador e exibir alertas de conscientização ambiental.
 
+## 💻 Programas usados:
+
+- 🐍 Python
+- 🐈‍⬛ GitHub
+
 ## 🛠️ Como Executar o Programa
 
 1. Certifique-se de ter o **Python 3** instalado no computador.
