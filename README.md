@@ -5,17 +5,10 @@ Programa em Python desenvolvido para a Agenda 7 de Desenvolvimento de Sistemas I
 ## 🛠️ Como Executar o Programa
 
 1. Certifique-se de ter o **Python 3** instalado no computador.
-2. Abra o terminal na pasta do projeto e entre na pasta do código digitando:
-   ```bash
-   cd consumo-agua
-   ```
-3. Inicie o programa digitando:
-   ```bash
-   python KauaFerrari_Ag7_DS_I.py
-   ```
-4. O terminal fará as perguntas do sistema. Preencha as informações solicitadas:
+2. Abra o arquivo `KauaFerrari_Ag7_DS_I.py` no seu editor (como o VS Code) e mande executar.
+3. O terminal fará as perguntas do sistema. Preencha as informações solicitadas:
    * O **tipo do imóvel** (casa, apartamento ou comercial).
    * O **valor de consumo** mensal dele em m³.
 
-5. A programação irá processar os dados passados e retornará a classificação que faz mais sentido. Por exemplo, se for um imóvel comercial, o sistema informará que é necessário consultar o plano corporativo para saber a tarifa comercial aplicada para aquele consumo.
+4. A programação irá processar os dados passados e retornará a classificação que faz mais sentido. Por exemplo, se for um imóvel comercial, o sistema informará que é necessário consultar o plano corporativo para saber a tarifa comercial aplicada para aquele consumo.
 
