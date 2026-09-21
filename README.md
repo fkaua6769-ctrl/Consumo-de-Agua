@@ -1,7 +1,4 @@
-# 💧 Monitor de Consumo de Água
-
-![Python](https://shields.io)
-![GitHub](https://shields.io)
+# 💧 Monitoramento - Consumo de Água
 
 Programa em Python desenvolvido para a Agenda 7 de Desenvolvimento de Sistemas I. O objetivo do sistema é receber o tipo de imóvel e o consumo de água, classificar o perfil do morador e exibir alertas de conscientização ambiental.
 
